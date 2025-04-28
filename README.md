@@ -18,3 +18,4 @@
 
 - There is records of 10,000 different customer
 - Active Customer : 7962 , Exited : 2038
+![image](https://github.com/msarvesh2022/MS-Excel/blob/main/exited-101.png)
