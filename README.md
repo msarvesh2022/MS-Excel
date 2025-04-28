@@ -15,3 +15,6 @@
 - Exited
 
 ## We will go through each and every attributes which play the important role to understand the customer behavior and history.
+
+- There is records of 10,000 different customer
+- Active Customer : 7962 , Exited : 2038
