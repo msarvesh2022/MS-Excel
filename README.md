@@ -1,6 +1,6 @@
 # MS-Excel
 ## Objective- 
-- This project is based on data analysis using the Microsoft Excel. The excel file contain the data of the bank customer. There are various factor is given for the customer who left or not left the bank.
+- This project is based on data analysis using the Microsoft Excel. The excel file contain the data of the bank customer. There are various factor is given for the customer who left or not left the bank. Our objective is that create some pattern from the given data so that Bank can make decision and improve the customer sevices to achieve the better retention rate.
 
 ## Data Overview
 ![image](https://github.com/msarvesh2022/MS-Excel/blob/main/curn-101.png)
@@ -10,3 +10,8 @@
 - Geography
 - Balance
 - Feedback Rating
+- Card type
+- Point Earned
+- Exited
+
+## We will go through each and every attributes which play the important role to understand the customer behavior and history.
