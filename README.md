@@ -22,16 +22,24 @@
 
 ![image](https://github.com/msarvesh2022/MS-Excel/blob/main/exited-101.png)
 
-## Heading 
+### Visualization of Customer from different chart
+
+- 20% customer left the bank.
 
 ![image](https://github.com/msarvesh2022/MS-Excel/blob/main/sc301.png)
 
-## Heading 2
+### Geographical Point of view of the customers
+- create the Pivot table to draw the conclusion country wise
+- Dataset contain the records of the 3 countries : France, Germany, Spain
+- half of the customers are from the france
 ![images](https://github.com/msarvesh2022/MS-Excel/blob/main/sc302.png)
 
-## Heading 3
+### Leaving rate of the customer
+- as we can see that Germany has highest % of leaving rate with 32%.
+- Wheras france has maximum customer but lowest leaving rate
 ![images](https://github.com/msarvesh2022/MS-Excel/blob/main/sc303.png)
 
 
-## Heading 4
+
+Leaving Rate visualizatin in pie chart
 ![images](https://github.com/msarvesh2022/MS-Excel/blob/main/sc304.png)
