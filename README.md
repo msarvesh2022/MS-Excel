@@ -32,14 +32,20 @@
 - create the Pivot table to draw the conclusion country wise
 - Dataset contain the records of the 3 countries : France, Germany, Spain
 - half of the customers are from the france
+
+  
 ![images](https://github.com/msarvesh2022/MS-Excel/blob/main/sc302.png)
 
 ### Leaving rate of the customer
 - as we can see that Germany has highest % of leaving rate with 32%.
 - Wheras france has maximum customer but lowest leaving rate
+
+  
 ![images](https://github.com/msarvesh2022/MS-Excel/blob/main/sc303.png)
 
 
 
 Leaving Rate visualizatin in pie chart
+
+
 ![images](https://github.com/msarvesh2022/MS-Excel/blob/main/sc304.png)
