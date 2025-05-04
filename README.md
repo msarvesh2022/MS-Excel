@@ -6,13 +6,13 @@
 ![image](https://github.com/msarvesh2022/MS-Excel/blob/main/curn-101.png)
 
 ### Some important attributes
-- Credit Score
-- Geography
-- Balance
-- Feedback Rating
-- Card type
-- Point Earned
-- Exited
+- `Credit Score`
+- `Geography`
+- `Balance`
+- `Feedback Rating`
+- `Card type`
+- `Point Earned`
+- `Exited`
 
 ## We will go through each and every attributes which play the important role to understand the customer behavior and history.
 
