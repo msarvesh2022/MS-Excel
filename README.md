@@ -37,7 +37,7 @@
 ![images](https://github.com/msarvesh2022/MS-Excel/blob/main/sc302.png)
 
 ### Leaving rate of the customer
-- as we can see that Germany has highest % of leaving rate with 32%.
+- as we can see that `Germany` has highest % of leaving rate with 32%.
 - Wheras france has maximum customer but lowest leaving rate
 
   
